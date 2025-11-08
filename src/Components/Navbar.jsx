@@ -8,8 +8,8 @@ const Navbar = () => {
     
     <>
     <div className='flex flex-col gap-2 '>
-    <Link to='/About'>About</Link>
     <Link to='/Home'>Home</Link>
+    <Link to='/About'>About</Link>
     <Link to='/Products'> Our Products</Link>
     <Link to='/Visite'>Visite</Link>
     </div>
